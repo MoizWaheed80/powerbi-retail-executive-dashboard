@@ -73,9 +73,7 @@ Interactive analysis allows performance to be explored across relevant business 
 * Product
 * Time period
 
-
 ### 🧭 Custom Navigation
-![Retail Dashboard Analysis](images/2.png)
 
 The report includes **custom visual navigation** to create a more application-like Power BI experience rather than relying only on the default page tabs.
 
@@ -93,9 +91,19 @@ The dashboard uses:
 
 ---
 
-## 🧠 Power BI Techniques Demonstrated
+## 🖼️ Report Pages
 
-This project focuses on practical Power BI development rather than simply placing charts on a page.
+The Power BI file contains additional analytical views beyond the main executive dashboard.
+
+The second report page is shown below:
+
+![Detailed Analysis Page](images/2.png)
+
+This page provides an additional perspective for exploring the underlying business performance in more detail.
+
+---
+
+## 🧠 Power BI Techniques Demonstrated
 
 ### Data Modeling
 
@@ -107,7 +115,7 @@ This project focuses on practical Power BI development rather than simply placin
 
 ### DAX
 
-The project demonstrates DAX techniques including:
+The project demonstrates practical DAX techniques including:
 
 * Aggregations
 * Calculated measures
@@ -159,15 +167,6 @@ powerbi-retail-executive-dashboard/
 └── README.md
 ```
 
-### Folder Description
-
-| File / Folder    | Description                                  |
-| ---------------- | -------------------------------------------- |
-| `Source/`        | Source data used for the Power BI project    |
-| `images/`        | Dashboard screenshots used for documentation |
-| `dashboard.pbix` | Complete Power BI report                     |
-| `README.md`      | Project documentation                        |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -183,8 +182,6 @@ powerbi-retail-executive-dashboard/
 ---
 
 ## 📊 Dashboard Architecture
-
-The project follows a typical BI reporting workflow:
 
 ```text
 Source Data
@@ -204,8 +201,6 @@ Interactive Report
      ▼
 Executive Insights
 ```
-
-This separation helps keep the dashboard focused on **business analysis rather than raw data presentation**.
 
 ---
 
@@ -228,9 +223,7 @@ The objective is to move from **"What happened?"** toward **"Where should we inv
 
 ## 🚀 How to Use
 
-### 1. Download the Repository
-
-Clone the repository:
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/MoizWaheed80/powerbi-retail-executive-dashboard.git
@@ -256,20 +249,7 @@ Use the navigation elements and filters to explore the different analytical view
 
 ---
 
-## 📷 Screenshots
-
-The repository includes two screenshots demonstrating the report interface:
-
-| Screenshot | Description                       |
-| ---------- | --------------------------------- |
-| `1.png`    | Main executive dashboard          |
-| `2.png`    | Additional detailed analysis page |
-
----
-
 ## 🔍 What This Project Demonstrates
-
-This project demonstrates practical experience with:
 
 * Power BI dashboard development
 * Data visualization
@@ -287,7 +267,7 @@ This project demonstrates practical experience with:
 
 ## 📈 Future Improvements
 
-Potential extensions for the project include:
+Potential extensions include:
 
 * Power BI Service deployment
 * Scheduled data refresh

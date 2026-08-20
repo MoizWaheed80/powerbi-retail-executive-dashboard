@@ -14,10 +14,6 @@ The dashboard combines **data modeling, DAX, time intelligence, interactive navi
 
 ![Retail Executive Dashboard](images/1.png)
 
-### Detailed Analysis Page
-
-![Retail Dashboard Analysis](images/2.png)
-
 ---
 
 ## 🎯 Project Objective
@@ -94,6 +90,10 @@ The dashboard uses:
 * Consistent typography and spacing
 
 ---
+
+### Detailed Analysis Page
+
+![Retail Dashboard Analysis](images/2.png)
 
 ## 🧠 Power BI Techniques Demonstrated
 

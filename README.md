@@ -73,9 +73,9 @@ Interactive analysis allows performance to be explored across relevant business 
 * Product
 * Time period
 
-![Retail Dashboard Analysis](images/2.png)
 
 ### 🧭 Custom Navigation
+![Retail Dashboard Analysis](images/2.png)
 
 The report includes **custom visual navigation** to create a more application-like Power BI experience rather than relying only on the default page tabs.
 
